@@ -28,7 +28,7 @@ API_KEY = 'AIzaSyC2FhCdJDamyyjhTxRS0qKJfN220C0rB-w'     # Google Api Key
 
 DataDumpFrequency = 3  # In seconds (integer)
 
-HighDataSamplingFrequency = 6          # In seconds Integer
+HighDataSamplingFrequency = 999999999 # In seconds Integer
 Low_DataSamplingFrequency = 4     # In Seconds Integer
 
 # </editor-fold>
