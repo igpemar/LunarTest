@@ -24,7 +24,7 @@ Work = (55.78210, 12.521248)    # GPS Coordinates in decimal degrees DDD.DDDDD (
 Work = (55.6798552, 12.5823892)    # GPS Coordinates in decimal degrees DDD.DDDDD (Lunar)
 
 
-API_KEY = 'AIzaSyC2FhCdJDamyyjhTxRS0qKJfN220C0rB-w'     # Google Api Key
+API_KEY = ''     # Google Api Key
 
 DataDumpFrequency = 3  # In seconds (integer)
 
